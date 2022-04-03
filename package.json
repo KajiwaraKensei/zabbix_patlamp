@@ -1,0 +1,26 @@
+{
+  "name": "zabbix_patlamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KajiwaraKensei/zabbix_patlamp.git"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/KajiwaraKensei/zabbix_patlamp/issues"
+  },
+  "homepage": "https://github.com/KajiwaraKensei/zabbix_patlamp#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.11.0"
+  }
+}
